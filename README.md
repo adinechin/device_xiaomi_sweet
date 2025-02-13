@@ -1,3 +1,5 @@
+Note : branch dedicated to building LineageOS 21 (forked from @Pulkitt077)
+
 Copyright (C) 2021 - The LineageOS Project
 
 Device tree for Xiaomi Redmi Note 10 Pro
