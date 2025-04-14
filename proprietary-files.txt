@@ -165,7 +165,7 @@ vendor/lib64/libarcsoft_hta.so
 vendor/lib64/libarcsoft_portrait_lighting.so
 vendor/lib64/libarcsoft_portrait_lighting_c.so
 vendor/lib64/libarcsoft_preview_deflicker.so
-vendor/lib64/libarcsoft_super_night_raw.so|a725136e8fe0c9ffd6b5ed527fd480478c9fd57d|a30ef90898eff351e6efc30f71b35db00f4a9d2a
+vendor/lib64/libarcsoft_super_night_raw.so
 
 # Camera-components
 vendor/lib64/camera/components/com.altek.node.depurple.so
@@ -263,11 +263,6 @@ vendor/etc/camera/vidhance_calibration
 vendor/etc/camera/vidhance_calibration_108m
 vendor/etc/camera/vidhance_calibration_64m
 vendor/etc/camera/watermark_font_2300_3199.dat
-
-# Camera face detection
-vendor/etc/camera/megviifacepp_0_5_2_model:vendor/etc/camera/facedetectpp_0_5_2_model
-vendor/lib64/libMegviiFacepp-0.5.2.so:vendor/lib64/libFaceDetectpp-0.5.2.so;FIX_SONAME
-vendor/lib64/libmegface.so:vendor/lib64/libfacedet.so;FIX_SONAME
 
 # Camera-firmware
 vendor/firmware/CAMERA_ICP.elf

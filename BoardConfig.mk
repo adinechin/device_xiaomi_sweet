@@ -42,6 +42,3 @@ VENDOR_SECURITY_PATCH := 2023-11-01
 
 # Inherit from proprietary files
 include vendor/xiaomi/sweet/BoardConfigVendor.mk
-
-# MiuiCamera
-include device/xiaomi/miuicamera-sweet/BoardConfig.mk
